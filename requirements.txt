@@ -1,0 +1,6 @@
+pydub==0.25.1
+pygame==2.5.2
+git+https://github.com/ScriptLineStudios/pygame_shaders.git
+pygame_widgets==1.1.5
+moderngl==5.8.2
+glcontext==2.5.0

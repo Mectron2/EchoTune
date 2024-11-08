@@ -1,0 +1,60 @@
+{
+    "song": "Лиза",
+    "artist": "FACE",
+    "lyrics": [
+        {
+            "line": "I'll be gentle and I'll take it slowely",
+            "start": "00:01",
+            "end": "00:07",
+            "font_size": 29
+        },
+        {
+            "line": "Just as long as you say you don't need me",
+            "start": "00:07",
+            "end": "00:13",
+            "font_size": 23
+        },
+        {
+            "line": "I'll do you right and I'll take it steady",
+            "start": "00:13",
+            "end": "00:20",
+            "font_size": 27
+        },
+        {
+            "line": "But when I say go you better be ready",
+            "start": "00:20",
+            "end": "00:27",
+            "font_size": 26
+        },
+        {
+            "line": "Лиза, я лишь хочу признаваться тебе",
+            "start": "00:27",
+            "end": "00:33",
+            "font_size": 26
+        },
+        {
+            "line": "Что я с детства влюблен",
+            "start": "00:33",
+            "end": "00:37",
+            "font_size": 37
+        },
+        {
+            "line": "Дать тепло батарей",
+            "start": "00:37",
+            "end": "00:40",
+            "font_size": 47
+        },
+        {
+            "line": "Холод осени с Лизой заменим весной",
+            "start": "00:40",
+            "end": "00:46",
+            "font_size": 26
+        },
+        {
+            "line": "Майский парк, на скамейках сидим мы с тобой",
+            "start": "00:46",
+            "end": "00:53",
+            "font_size": 20
+        }
+    ]
+}

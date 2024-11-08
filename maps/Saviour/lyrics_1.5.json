@@ -1,0 +1,54 @@
+{
+    "song": "Saviour",
+    "artist": "Novulent",
+    "lyrics": [
+        {
+            "line": "Show me",
+            "start": "00:01",
+            "end": "00:03",
+            "font_size": 98
+        },
+        {
+            "line": "Im the one you want",
+            "start": "00:04",
+            "end": "00:06",
+            "font_size": 45
+        },
+        {
+            "line": "Say it slow",
+            "start": "00:06",
+            "end": "00:08",
+            "font_size": 82
+        },
+        {
+            "line": "Show me how you love",
+            "start": "00:09",
+            "end": "00:14",
+            "font_size": 39
+        },
+        {
+            "line": "Show me how you love",
+            "start": "00:14",
+            "end": "00:20",
+            "font_size": 39
+        },
+        {
+            "line": "I can not breathe",
+            "start": "00:22",
+            "end": "00:24",
+            "font_size": 53
+        },
+        {
+            "line": "The waves are crashing onto me",
+            "start": "00:24",
+            "end": "00:26",
+            "font_size": 27
+        },
+        {
+            "line": "Show me how you love",
+            "start": "00:27",
+            "end": "00:32",
+            "font_size": 39
+        }
+    ]
+}
